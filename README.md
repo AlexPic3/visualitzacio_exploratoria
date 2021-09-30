@@ -1,0 +1,2 @@
+# visualitzacio_exploratoria
+Anàlisi exploratòria Dataframes Reporting
